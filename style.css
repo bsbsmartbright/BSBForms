@@ -1,0 +1,192 @@
+/* FOLHA DE ESTILO */
+
+
+
+img {
+    width: 15%;
+}
+
+
+input#nomedocliente {
+    width: 55%;
+    border: 0px;
+    border-bottom: 1px solid #3e89c0;
+    margin: 5px 0px 10px 0;
+    padding: 0 0 5px 0;
+	
+}
+
+.titulo_pagina {
+    border-bottom: 1px solid #3e89c0;
+    margin: 20px 0px 10px 0;
+    padding: 0 0 5px 0;
+    color: #3e89c0;
+    font-weight: bold;
+}
+
+.bloco1 {
+    margin: 21px 0 20px 0;
+}
+
+
+.titulo_dados {
+    
+    border: solid 3px #3e89c0;
+    width: 15%;
+    margin: 10px 0 20px 0;
+	color: #3e89c0;
+	text-align: center;
+	
+}
+
+.dados_cliente {
+    color: #3e89c0;
+	
+}
+
+input#telefone {
+    width: 13%;
+    border: 0px;
+    border-bottom: 1px solid #3e89c0;
+    margin: 5px 30px 10px 0;
+    padding: 0 0 5px 0;
+	
+}
+
+input#fax {
+    width: 13%;
+    border: 0px;
+    border-bottom: 1px solid #3e89c0;
+    margin: 5px 30px 10px 0;
+    padding: 0 0 5px 0;
+	
+}
+
+input#email {
+    width: 55%;
+    border: 0px;
+    border-bottom: 1px solid #3e89c0;
+    margin: 5px 30px 10px 0;
+    padding: 0 0 5px 0;
+	
+}
+
+input#nome_responsavel {
+    width: 55%;
+    border: 0px;
+    border-bottom: 1px solid #3e89c0;
+    margin: 5px 30px 10px 0;
+    padding: 0 0 5px 0;
+	
+}
+
+input#telemovel {
+    width: 10%;
+    border: 0px;
+    border-bottom: 1px solid #3e89c0;
+    margin: 5px 30px 10px 0;
+    padding: 0 0 5px 0;
+	
+}
+
+input#tipo_servico {
+    width: 55%;
+    border: 0px;
+    border-bottom: 1px solid #3e89c0;
+    margin: 5px 30px 10px 0;
+    padding: 0 0 5px 0;
+	
+}
+
+input#morada {
+    width: 55%;
+    border: 0px;
+    border-bottom: 1px solid #3e89c0;
+    margin: 5px 30px 10px 0;
+    padding: 0 0 5px 0;
+    
+}
+
+input#dominio {
+    width: 20%;
+    border: 0px;
+    border-bottom: 1px solid #3e89c0;
+    margin: 5px 30px 10px 0;
+    padding: 0 0 5px 0;
+    
+}
+
+input#expira {
+    width: 20%;
+    border: 0px;
+    border-bottom: 1px solid #3e89c0;
+    margin: 5px 30px 10px 0;
+    padding: 0 0 5px 0;
+    
+}
+
+input#estado_servico {
+    width: 20%;
+    border: 0px;
+    border-bottom: 1px solid #3e89c0;
+    margin: 5px 30px 10px 0;
+    padding: 0 0 5px 0;
+    
+}
+
+footer {
+    margin: 70px 0 10px 0;
+    color: #F4F5F7;
+	background-color: #3e89c0;
+}
+
+span.site_bsb {
+    margin: 0 45px 0 0;
+	font-size: 11px;
+}
+
+span.mail_bsb {
+    margin: 0 45px 0 0;
+	font-size: 11px;
+}
+
+span.telefone_bsb {
+    font-size: 11px;
+}
+
+.morada_bsb {
+
+	font-size: 11px;
+}
+
+span.copyright_bsb {
+	
+    margin: 0px 0 0 775px;
+    font-size: 9px;
+}
+
+header {
+    background-color: #104B6E;
+}
+
+#menu ul {
+	padding:0px;
+	margin:0px;
+	background-color:#3e89c0;
+	list-style:none;
+}
+
+#menu ul li { 
+display: inline; 
+}
+
+#menu ul li a {
+	padding: 2px 10px;
+	display: inline-block;
+ 
+	/* visual do link */
+	background-color:#3e89c0;
+	color: #333;
+	text-decoration: none;
+	border-bottom:3px solid #3e89c0;
+}
